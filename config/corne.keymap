@@ -10,11 +10,11 @@
 #include <dt-bindings/zmk/outputs.h>
 
 &mt {
-    tapping-term-ms = <125>; // 200 default
+    tapping-term-ms = <130>; // 200 default
 };
 
 &lt {
-    tapping-term-ms = <125>; // 200 default
+    tapping-term-ms = <130>; // 200 default
 };
 
 / {
