@@ -62,6 +62,7 @@
         };
 
         layer_3 {
+            display-name = "Arrow";
             bindings = <
 &studio_unlock  &trans        &trans        &trans        &trans        &trans          &trans         &kp LEFT_BRACKET  &kp UP_ARROW    &kp RIGHT_BRACKET  &trans  &trans
 &out OUT_TOG    &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &kp BACKSLASH  &kp LEFT_ARROW    &kp DOWN_ARROW  &kp RIGHT_ARROW    &trans  &kp EQUAL
